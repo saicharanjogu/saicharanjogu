@@ -1,37 +1,24 @@
-<div align="left">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Sai%20Charan&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<br/>
-
 **`AI Product Manager · Solo Builder · Vibecoder`**
-
-<br/>
 
 I build AI products that ship — not just spec.  
 Solo-built **Bookmore** using Claude Opus 4.5 vibecoding. Drove a **3x lift in lead conversion** ($15K+ monthly rev).  
 Shipped **28+ product engagements** across LLM apps, RAG pipelines, and agent orchestration at **AlphaX**.
 
-<br/>
+---
 
 ## Traction
 
-<div align="center">
+| 28+ | 3x | 368K | 3,423 |
+|:---|:---|:---|:---|
+| Products Shipped | Lead Conv Lift | LinkedIn Impressions | GitHub Contributions (last year) |
 
-| 28+ | 3x | 368K | 14 |
-|:---:|:---:|:---:|:---:|
-| Products Shipped | Lead Conv Lift | LinkedIn Impressions | Team at AlphaX |
-
-</div>
-
-<br/>
 ---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-charanjogu.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://charanjogu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saicharanjogu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saicharanjogu)
 [![Email](https://img.shields.io/badge/Email-saicharanjogu0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saicharanjogu0@gmail.com)
-
-</div>
 
 ---
 
@@ -40,6 +27,14 @@ Shipped **28+ product engagements** across LLM apps, RAG pipelines, and agent or
 I sit at the intersection of LLM engineering and product strategy. I scope AI feasibility, define success metrics (latency, accuracy, fallback rates), build evals, and ship to production — not just write PRDs.
 
 **Current focus:** 0→1 AI product builds for B2B workflows — lead qualification, CRM automation, intelligent UX.
+
+---
+
+## GitHub Activity
+
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=saicharanjogu&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saicharanjogu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
@@ -66,8 +61,6 @@ Product       PRD Writing · AI Success Metrics · Paid Pilot Validation · RICE
 
 ---
 
-
-
 ## Background
 
 - **AlphaX** (2020–Present) — Founded a remote-first product dev agency. Delivered for DRDO, IIT Hyderabad, Cisco-incubated startups.
@@ -86,12 +79,6 @@ Product       PRD Writing · AI Success Metrics · Paid Pilot Validation · RICE
 
 ---
 
-<div align="center">
-
-**Open to AI PM roles · Full-time · Remote or Hyderabad**
-
-[Book a 30-min call](https://calendly.com/saicharanjogu0)
+**Open to AI PM roles · Full-time · Remote or Hyderabad** · [Book a 30-min call](https://calendly.com/saicharanjogu0)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
-
-</div>
