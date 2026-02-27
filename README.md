@@ -30,14 +30,6 @@ I sit at the intersection of LLM engineering and product strategy. I scope AI fe
 
 ---
 
-## GitHub Activity
-
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=saicharanjogu&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saicharanjogu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
----
-
 ## Shipped Products
 
 | Product | Stack | Outcome |
