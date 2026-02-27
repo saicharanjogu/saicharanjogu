@@ -14,6 +14,19 @@ Shipped **28+ product engagements** across LLM apps, RAG pipelines, and agent or
 
 <br/>
 
+## Traction
+
+<div align="center">
+
+| 28+ | 3x | 368K | 14 |
+|:---:|:---:|:---:|:---:|
+| Products Shipped | Lead Conv Lift | LinkedIn Impressions | Team at AlphaX |
+
+</div>
+
+<br/>
+---
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-charanjogu.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://charanjogu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saicharanjogu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saicharanjogu)
 [![Email](https://img.shields.io/badge/Email-saicharanjogu0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saicharanjogu0@gmail.com)
@@ -53,17 +66,7 @@ Product       PRD Writing · AI Success Metrics · Paid Pilot Validation · RICE
 
 ---
 
-## Traction
 
-<div align="center">
-
-| 28+ | 3x | 368K | 14 |
-|:---:|:---:|:---:|:---:|
-| Products Shipped | Lead Conv Lift | LinkedIn Impressions | Team at AlphaX |
-
-</div>
-
----
 
 ## Background
 
